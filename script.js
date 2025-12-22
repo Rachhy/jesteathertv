@@ -54,7 +54,7 @@ document.addEventListener('DOMContentLoaded', () => {
         hiddenContent.classList.toggle('show-content');
 
         if (hiddenContent.classList.contains('show-content')) {
-            revealBtn.textContent = "Love meymey Forever";
+            revealBtn.textContent = "Love meymey jeang ke xD";
             triggerConfetti();
         } else {
             revealBtn.textContent = "Click Me";
@@ -88,3 +88,4 @@ document.addEventListener('DOMContentLoaded', () => {
         }());
     }
 });
+
